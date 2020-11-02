@@ -3,7 +3,7 @@ docs_dir: 'docs'
 
 
 theme:
-  name: readthedocs  # MkDocs for Materialに表示スタイルを切替.
+  name: material  # MkDocs for Materialに表示スタイルを切替.
   language: ja    # メニュー言語を日本語に変更.
   icon:           # サイト名横のアイコン画像を変更.
     logo: material/school
