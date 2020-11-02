@@ -1,3 +1,4 @@
 mkdocs
 fontawesome_markdown
 pygments
+mkdocs-material
