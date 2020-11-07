@@ -1,18 +1,31 @@
-# Welcome to MkDocs
-# fox_aki310 site
+# Welcome to aki310 site!
+## MkdocsとMarakdownの練習がてら、
+## 「リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック」読書メモ記録を書いてみました。
+ [Amazonへのリンク](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655).
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+#### もし一緒に呼んでくれる方、読み合わせをしたい方、その他技術雑談をしたい方などがいらっしゃれば気軽にご連絡下さると幸いです。
+[twitter](https://twitter.com/fox_aki310ooooo)
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## 目次
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- はじめに
+- 第Ⅰ部：表面上の改善:
+    - 第2章 名前に情報を埋め込む:
+    - 第3章 誤解されない名前:
+    - 第4章 美しさ:
+    - 第5章 コメントすべきことを知る:
+    - 第6章 コメントは正確で簡潔に:
+- 第Ⅱ部 ループとロジックの単純化:
+    - 第7章 制御フローを読みやすくする:
+    - 第8章 巨大な式を分割する:
+    - 第9章 変数と読みやすさ:
+- 第Ⅲ部 コードの再構成:
+    - 第10章 無関係の下位問題を抽出する:
+    - 第11章 一度に1つのことを:
+    - 第12章 コードに思いを込める:
+    - 第13章 短いコードを書く:
+- 第Ⅳ部 選抜テーマ:
+    - 第14章 テストと読みやすさ:
+    - 第15章 「分/時間カウンタ」を設計・実装する:
+    - 付録　合わせて読みたい:
